@@ -10,4 +10,6 @@
 
 ## 以下是我的一点小经验
 
-[Gradle 更换国内源](doc/gradle.md)
+[Gradle 更换国内源](doc/Gradle.md)
+
+[SSR-Rule](doc/SSR-Rule.md)
