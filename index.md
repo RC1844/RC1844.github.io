@@ -4,9 +4,7 @@
 
 ## 我的仓库
 
-+ [FastGithub](https://github.com/RC1844/FastGithub/README.md)
-
-+ 快速跳转 GitHub 镜像网站的猴油脚本
++ [FastGithub](https://github.com/RC1844/FastGithub) 快速跳转 GitHub 镜像网站的猴油脚本
 
 ## 以下是我的一点小经验
 
