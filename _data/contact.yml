@@ -10,6 +10,7 @@
 -
   type: twitter
   icon: 'fab fa-twitter'
+  noblank: false
 -
   type: email
   icon: 'fas fa-envelope'
@@ -17,7 +18,7 @@
 -
   type: rss
   icon: 'fas fa-rss'
-  noblank: true
+  noblank: false
 
 # Uncomment and complete the url below to enable more contact options
 # -
