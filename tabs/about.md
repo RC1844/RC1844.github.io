@@ -8,4 +8,4 @@ title: About
 ---
 ## 捐赠
 
-![Sponsor](https://raw.githubusercontent.com/RC1844/Sponsor/master/Sponsor/Sponsor.png)
+![Sponsor](https://cdn.jsdelivr.net/gh/RC1844/Sponsor@master/Sponsor/Sponsor.png)
