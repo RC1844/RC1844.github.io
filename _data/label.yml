@@ -7,13 +7,13 @@
 
 panel:
   lastmod: "最近更新"
-  trending_tags: "热门标签"
+  trending_tags: "流行标签"
   toc: "内容"
 
 post:
-  relate_posts: "进一步阅读"
+  relate_posts: "更多"
   button:
-    next: "下一篇"
-    previous: "上一篇"
+    next: 下一个
+    previous: 上一个
 
 search_hint: "搜索"   # text show on search bar

@@ -6,7 +6,7 @@
 
 
 -
-  name: 首页
+  name: 主页
   icon: "fas fa-home"
 -
   name: 分类
@@ -14,7 +14,7 @@
   path: tabs
   url: categories
 -
-  name: "标签"
+  name: 标签
   icon: "fas fa-tags"
   path: tabs
   url: tags
