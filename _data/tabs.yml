@@ -24,7 +24,7 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "关于"
+  name: "关于与捐赠"
   icon: "fas fa-info"
   path: tabs
   url: about

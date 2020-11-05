@@ -6,5 +6,6 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
+## 捐赠
 
-这里什么都没有呢~~
+![Sponsor](https://raw.githubusercontent.com/RC1844/Sponsor/master/Sponsor/Sponsor.png)
